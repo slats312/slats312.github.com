@@ -4,9 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Slats Grobnik'
 SITENAME = u'slats312'
-SITEURL = 'slats312.github.com'
+SITEURL = 'httpL://slats312.github.com'
 
-TIMEZONE = 'US/Chicago'
+TIMEZONE = 'America/Chicago'
 
 DEFAULT_LANG = u'en'
 
